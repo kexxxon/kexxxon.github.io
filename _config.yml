@@ -61,5 +61,6 @@ author:
 
 plugins:
   - jekyll-remote-theme
+  - not-pure-poole
 
 remote_theme: vszhub/not-pure-poole
