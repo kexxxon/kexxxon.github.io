@@ -36,9 +36,9 @@ logo: logo.png
 social:
   name: kexxxon
   links:
-    - https://twitter.com/
+    - null
     - https://github.com/kexxxon
-google_site_verification: xxxxx
+google_site_verification: null
 lang: en
 
 sass:
@@ -57,7 +57,7 @@ sass:
 author:
   name: kexxxon
   url: https://github.com/kexxxon/
-  email: @gmail.com
+  email: null
 
 plugins:
   - jekyll-remote-theme
