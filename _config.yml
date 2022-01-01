@@ -58,3 +58,8 @@ author:
   name: kexxxon
   url: https://github.com/kexxxon/
   email: @gmail.com
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: vszhub/not-pure-poole
