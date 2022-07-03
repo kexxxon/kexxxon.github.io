@@ -4,6 +4,6 @@ title: This is a test for post
 author: kexon
 tags:
 - github blog
-date: 
+date: 2022-07-02
 ---
 want to success
